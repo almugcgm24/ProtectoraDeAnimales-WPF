@@ -1,0 +1,40 @@
+﻿<Window x:Class="LabIPO.Presentacion.datosPadrino"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabIPO.Presentacion"
+        mc:Ignorable="d"
+        Title="datosPadrino" Height="500" Width="500" SizeToContent="Manual" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Window.Background>
+        <ImageBrush ImageSource="/imagenes/datos-personales_padrino_c.JPG"/>
+    </Window.Background>
+    <Viewbox>
+        <Grid>
+            <TextBox x:Name="nombrePadrino" HorizontalAlignment="Left" Height="26" Margin="180,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" IsEnabled="False"/>
+            <TextBox x:Name="apellidosPadrino" HorizontalAlignment="Left" Height="26" Margin="180,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" IsEnabled="False"/>
+            <TextBox x:Name="emailPadrino" HorizontalAlignment="Left" Height="26" Margin="180,103,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" IsEnabled="False"/>
+            <TextBox x:Name="dniPadrino" HorizontalAlignment="Left" Height="26" Margin="180,134,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" IsEnabled="False"/>
+            <TextBox x:Name="domicilioPadrino" HorizontalAlignment="Left" Height="26" Margin="180,165,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" IsEnabled="False"/>
+            <TextBox x:Name="telefonoPadrino" HorizontalAlignment="Left" Height="26" Margin="180,196,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" IsEnabled="False"/>
+            <TextBox x:Name="aportacionPadrino" HorizontalAlignment="Left" Height="26" Margin="180,227,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" IsEnabled="False"/>
+            <TextBox x:Name="pagoPadrino" HorizontalAlignment="Left" Height="26" Margin="180,258,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" IsEnabled="False"/>
+            <TextBox x:Name="cuentaPadrino" HorizontalAlignment="Left" Height="26" Margin="180,289,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141" IsEnabled="False"/>
+            <Label Content="Nombre" HorizontalAlignment="Left" Margin="-24,41,0,0" VerticalAlignment="Top" Width="125" HorizontalContentAlignment="Right"/>
+            <Label Content="Apellidos" HorizontalAlignment="Left" Margin="-24,72,0,0" VerticalAlignment="Top" Width="125" HorizontalContentAlignment="Right"/>
+            <Label Content="Email" HorizontalAlignment="Left" Margin="-24,103,0,0" VerticalAlignment="Top" Width="125" HorizontalContentAlignment="Right"/>
+            <Label Content="DNI" HorizontalAlignment="Left" Margin="-24,134,0,0" VerticalAlignment="Top" Width="125" HorizontalContentAlignment="Right"/>
+            <Label Content="Domicilio" HorizontalAlignment="Left" Margin="-24,165,0,0" VerticalAlignment="Top" Width="125" HorizontalContentAlignment="Right"/>
+            <Label Content="Teléfono" HorizontalAlignment="Left" Margin="-24,196,0,0" VerticalAlignment="Top" Width="125" HorizontalContentAlignment="Right"/>
+            <Label Content="Aportación mensual" HorizontalAlignment="Left" Margin="-24,227,0,0" VerticalAlignment="Top" Width="125" HorizontalContentAlignment="Right"/>
+            <Label Content="Forma pago" HorizontalAlignment="Left" Margin="-24,258,0,0" VerticalAlignment="Top" Width="125" HorizontalContentAlignment="Right"/>
+            <Label Content="Número cuenta" HorizontalAlignment="Left" Margin="-24,289,0,0" VerticalAlignment="Top" Width="125" HorizontalContentAlignment="Right"/>
+            <Label Content="Fecha comienzo&#xD;&#xA;apadrinamiento" HorizontalAlignment="Left" Margin="-24,320,0,0" VerticalAlignment="Top" Width="125" HorizontalContentAlignment="Right"/>
+            <Label Content="MÁS INFORMACIÓN PADRINO" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" FontWeight="Bold" RenderTransformOrigin="0.347,0.473"/>
+            <Image x:Name="imgPadrino" HorizontalAlignment="Stretch" Height="108" Margin="0,351,0,0" VerticalAlignment="Bottom" Width="140" Source="{Binding foto}"/>
+            <DatePicker x:Name="fechaPadrino" HorizontalAlignment="Left" Margin="180,320,0,0" VerticalAlignment="Top" Height="26" Width="141" IsEnabled="False"/>
+
+        </Grid>
+    </Viewbox>
+
+</Window>

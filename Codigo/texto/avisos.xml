@@ -1,0 +1,17 @@
+﻿<avisos>
+	<aviso nombre="Amy" sexo ="Hembra" raza ="Doberman" tamano ="15" descripcionPerro="color negro con el hocico marrón"
+           datosAdicionales ="lleva un collar de pinchos" foto ="https://collares-caninos.es/images/stories/virtuemart/product/collar-cuero-y-adornos-con-adornos-doberman-novedad-fresca-s90-1.jpg"
+           fechaPerdida ="16/08/2021" zonaPerdida="parque los Alarcos, Ciudad Real" datosContacto="Tel: 658772552"/>
+	<aviso nombre="Danesa" sexo ="Hembra" raza ="Pitbull" tamano ="12" descripcionPerro="color gris"
+           datosAdicionales=" cojea de una pata" foto ="https://t2.uc.ltmcdn.com/images/4/9/4/img_45494_apa_283860_600.jpg"
+           fechaPerdida ="27/08/2021" zonaPerdida="Plaza Mayor, Ciudad Real" datosContacto="Tel: 678660552"/>
+	<aviso nombre="Toby" sexo ="Macho" raza ="Husky" tamano ="5" descripcionPerro="color blanco y gris, es un cachorro"
+           datosAdicionales ="lleva un collar rojo con el nombre Emilio" foto ="https://www.wasky.es/wp-content/uploads/photo-of-siberian-husky-puppy-2853130-scaled.jpg"
+           fechaPerdida ="10/12/2021" zonaPerdida="polideportivo San Pedro, Ciudad Real" datosContacto="Tel: 766448811"/>
+	<aviso nombre="Foxy" sexo ="Hembra" raza ="Labrador" tamano ="25" descripcionPerro="color marrón "
+           datosAdicionales ="lleva un collar de pinchos" foto ="https://www.perrolabrador.net/wp-content/uploads/2015/12/labrador_chocolate.jpg"
+           fechaPerdida ="10/06/2021" zonaPerdida="parque los Alarcos, Ciudad Real" datosContacto="Tel: 925614599"/>
+	<aviso nombre="Max" sexo ="Macho" raza ="Boxer" tamano ="10" descripcionPerro="color blanco"
+           datosAdicionales ="lleva un collar con el nombre de Julia" foto ="https://boxerperro.com/wp-content/uploads/2019/11/boxer-albino.jpg"
+           fechaPerdida ="1/12/2021" zonaPerdida="calle libertad, Ciudad Real" datosContacto="Tel: 683299244"/>
+</avisos>

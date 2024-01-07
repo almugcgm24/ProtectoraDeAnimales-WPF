@@ -1,0 +1,9 @@
+﻿<personas>
+	<persona usuario ="Francisco" apellidos ="García Nuñez" contrasenia ="123" dni ="59634681B" telefono="698783126" ultimoAcceso ="Primera vez" foto ="https://www.hospitallasalud.es/wp-content/uploads/2018/11/manuel_garcia-01.png" />
+	<persona usuario ="María" apellidos ="Gómez Rodríguez" contrasenia ="456M" dni ="46231591A" telefono="623134659" ultimoAcceso ="Primera vez" foto ="https://img.europapress.es/fotoweb/fotonoticia_20180928132525_420.jpg" />
+	<persona usuario ="Jose Luis" apellidos ="López Guerrero" contrasenia ="789jl" dni ="56129530J" telefono="649610750" ultimoAcceso ="Primera vez" foto ="https://www.cordobabn.com/asset/thumbnail,992,558,center,center//media/cordobabn/images/2020/11/10/2020111010090047217.jpg" />
+	<persona usuario ="Lucía" apellidos ="Marcos Pérez" contrasenia ="1234" dni ="23469135L" telefono="698451630" ultimoAcceso ="Primera vez" foto ="https://www.unizar.es/sites/default/files/actualidad/0_lucia.jpg" />
+	<persona usuario ="Almudena" apellidos ="Gómez-Carreño" contrasenia ="2413A" dni ="26132411A" telefono="603121723" ultimoAcceso ="Primera vez" foto ="https://www.topcomunicacion.com/wp-content/uploads/2020/02/20200128115550_ZFXEIV.jpg" />
+	<persona usuario ="Adrián" apellidos ="Martín" contrasenia ="369258" dni ="92346010D" telefono="614643390" ultimoAcceso ="Primera vez" foto ="https://www.topcomunicacion.com/wp-content/uploads/2020/02/20200128115550_ZFXEIV.jpg" />
+
+</personas>

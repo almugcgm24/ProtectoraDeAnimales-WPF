@@ -1,0 +1,8 @@
+﻿<voluntario>
+	<voluntario nombre ="David" apellidos ="De La Fuente Anaya" email ="davidFAnaya@gmail.com" dni ="36018947D" domicilio ="Calle Nublado, 13" telefono ="655198034" horarioDisponibilidad ="Lunes - Viernes: 08:30-14:30" zonaDisponibilidad ="Madrid, Chinchón" conocimientosVeterinarios ="Especializado en animales domésticos." foto ="http://congresors.org/wp-content/uploads/2020/08/David-Lafuente.jpg" />
+	<voluntario nombre ="Marisa" apellidos ="García Tapial" email ="marisaGarTa@gmail.com" dni ="90554317P" domicilio ="Calle Suiza, 22" telefono ="691204608" horarioDisponibilidad ="Lunes - Viernes: 15:30-21:30" zonaDisponibilidad ="Barcelona, Talamanca" conocimientosVeterinarios ="Especializada en animales salvajes, de zoológicos y acuarios." foto ="https://institutoeu.com/wp-content/uploads/2020/12/Marisa-Sancho.jpg" />
+	<voluntario nombre ="Pedro" apellidos ="Moreno Agüero" email ="pedroMor@gmail.com" dni ="30495617E" domicilio ="Calle Amable, 1" telefono ="673178246" horarioDisponibilidad ="Sábado: 08:30-14:30" zonaDisponibilidad ="Sevilla, Coripe" conocimientosVeterinarios ="Especializado en animales de granja." foto ="https://www.eluniversal.com.co/sites/default/files/201408/pedro_moreno.jpg" />
+	<voluntario nombre ="Iria" apellidos ="Martín Nieves" email ="iriaMN@gmail.com" dni ="15432768A" domicilio ="Calle Sevilla, 34" telefono ="622461975" horarioDisponibilidad ="Sábado: 15:30-21:30" zonaDisponibilidad ="Granada, Víznar" conocimientosVeterinarios ="Especializada en mamíferos terrestes." foto ="https://d1wppq8sjja81z.cloudfront.net/basquet/FED_FOTO/Thumbs/PER_125764_c75cf603-6060-4127-a8d5-f4946cc9bc69.jpg" />
+
+</voluntario>
+

@@ -1,0 +1,29 @@
+﻿<perro>
+	<perro nombre ="Tara" sexo ="Hembra" raza ="Pastor Aleman" tamanio="grande" peso ="30" edad ="9" fechaEntradaProt="12/04/2013" apadrinado="true" nombreApadrinado="María"
+		   foto="https://image.freepik.com/foto-gratis/pastor-aleman-7-meses-edad-retrato-perro-aislado_191971-2347.jpg" cachorro ="false" ppp="false"  vacunado ="true"
+		   esterilizado ="false" leishmaniosis ="false" enlaceVideo ="videos.Pastor Aleman corriendo.mp4" descripcionPerro ="Perro inteligente y dócil de tamaño grande"
+		   sociableConPerros ="true" sociableConNinios="true" sociableConGatos="true" sociableCualquierAnimal="true" estadoPerro="Adoptado" />
+	<perro nombre ="Kira" sexo ="Hembra" raza ="Labrador" tamanio="mediano" peso ="20" edad ="5" fechaEntradaProt="17/04/2018" apadrinado="true" nombreApadrinado="Francisco"
+		   foto="https://www.zooplus.dk/magasin/wp-content/uploads/2018/01/fotolia_25521417-1.jpg" cachorro ="false" ppp="false" vacunado ="true"
+		   esterilizado ="true" leishmaniosis ="false" enlaceVideo ="https://youtu.be/Quym-62HttU" descripcionPerro ="Perro tranquilo y dócil de tamaño mediano"
+		   sociableConPerros ="true" sociableConNinios="true" sociableConGatos="false" sociableCualquierAnimal="false" estadoPerro="Reservado"/>
+	<perro nombre ="Elma" sexo ="Hembra" raza ="Caniche Grande" tamanio="pequeño" peso ="10" edad ="2" fechaEntradaProt="16/08/2020" apadrinado="false" nombreApadrinado="-"
+		   foto="https://miperro.com.mx/wp-content/uploads/2019/10/caniche-gigante-6.jpg" cachorro ="true" ppp="false" vacunado ="false"
+		   esterilizado ="false" leishmaniosis ="true" enlaceVideo ="https://youtu.be/JuJW1WEHLH8" descripcionPerro ="Perro juguetón de tamaño grande"
+		   sociableConPerros ="true" sociableConNinios="true" sociableConGatos="true" sociableCualquierAnimal="false" estadoPerro="Cuarentena" />
+	<perro nombre ="Axel" sexo ="Macho" raza ="Pastor Belga" tamanio="grande" peso ="25" edad ="16" fechaEntradaProt="12/04/2008" apadrinado="false" nombreApadrinado="-"
+		   foto="https://www.compra-venta.es/sh-img/7729286d5fd48ebcb1c3c18fd28ba086_pastor%2Bbelga%2Btervueren.jpg" cachorro ="false" ppp="false" vacunado ="true"
+		   esterilizado ="false" leishmaniosis ="false" enlaceVideo ="https://youtu.be/TLRzJfqa0X4" descripcionPerro ="Perro muy ágil de tamaño grande"
+		   sociableConPerros ="true" sociableConNinios="true" sociableConGatos="false" sociableCualquierAnimal="false" estadoPerro="Fallecido" />
+	<perro nombre ="Cokie" sexo ="Macho" raza ="Pitbull" tamanio="pequeño" peso ="4" edad ="1" fechaEntradaProt="23/05/2020" apadrinado="true" nombreApadrinado="Andrea"
+		   foto="https://www.deine-tierwelt.de/fotos/122295809_xl.jpg" cachorro ="true" vacunado ="false" ppp ="true"
+		   esterilizado ="false" leishmaniosis ="false" enlaceVideo ="https://youtu.be/PF0RHnpYcrM" descripcionPerro ="Perro que requiere ser educado de tamño mediano"
+		   sociableConPerros ="false" sociableConNinios="false" sociableConGatos="false" sociableCualquierAnimal="false" estadoPerro="Adoptado" />
+	<perro nombre ="Trixie" sexo ="Hembra" raza ="Pastor Aleman" tamanio="pequeño" peso ="6" edad ="1" fechaEntradaProt="29/11/2020" apadrinado="true" nombreApadrinado="Adrián"
+		   foto="https://i.pinimg.com/originals/47/ac/dc/47acdcc7091d46e66ef63dac25cb0db7.jpg" cachorro ="true" ppp=" false" vacunado ="false"
+		   esterilizado ="false" leishmaniosis ="false" enlaceVideo ="https://youtu.be/0tz34x5WEV4" descripcionPerro ="Perro inteligente y dócil de tamaño grande"
+		   sociableConPerros ="true" sociableConNinios="true" sociableConGatos="true" sociableCualquierAnimal="true" estadoPerro="Adoptado" />
+
+</perro>
+
+

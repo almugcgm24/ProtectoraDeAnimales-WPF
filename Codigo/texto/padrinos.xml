@@ -1,0 +1,7 @@
+﻿<padrino>
+	<padrino nombre ="María" apellidos ="Gómez Rodríguez" email ="mariaGoRo@gmail.com" dni ="46231591A" domicilio ="Calle Cruz, 58" telefono ="623134659" aportacionMensual ="150" formaPago ="Transferencia" numeroCuenta ="E14690" fechaComienzoApadri ="1 Mayo 2020" foto ="https://img.europapress.es/fotoweb/fotonoticia_20180928132525_420.jpg" />
+	<padrino nombre ="Francisco" apellidos ="García Nuñez" email ="francisco99gn@gmail.com" dni ="59634681B" domicilio ="Calle Ruiseñor, 10" telefono ="698783126" aportacionMensual ="75" formaPago ="Transferencia" numeroCuenta ="E43168" fechaComienzoApadri ="5 Marzo 2020" foto ="https://www.hospitallasalud.es/wp-content/uploads/2018/11/manuel_garcia-01.png" />
+	<padrino nombre ="Andrea" apellidos ="Martín Sanchez" email ="andreaMaSa@gmail.com" dni ="49277590M" domicilio ="Calle Libertad, 38" telefono ="621255296" aportacionMensual ="200" formaPago ="Transferencia" numeroCuenta ="E10200" fechaComienzoApadri ="14 Junio 2021" foto ="https://thumbs.dreamstime.com/b/beautiful-year-old-woman-portrait-years-37478824.jpg" />
+	<padrino nombre ="Adrián" apellidos ="Mancebo Martinez" email ="adrianManMar@gmail.com" dni ="09637691X" domicilio ="Calle Juan de Avila, 30" telefono ="628779106" aportacionMensual ="50" formaPago ="Transferencia" numeroCuenta ="E67108" fechaComienzoApadri ="29 Enero 2020" foto ="https://www.agregame.com/imagenes/gente/medium/stamp_544f39b6c5f6780ce211eee3daf650b7.jpg" />
+
+</padrino>

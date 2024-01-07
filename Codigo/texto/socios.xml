@@ -1,0 +1,18 @@
+﻿<socio>
+	<socio nombre ="Lorena" apellidos ="Martinez Arroyo" email="LoreMarAr@gmail.com" dni="45689745M"
+		   domicilio="Ciudad Real" telefono="925384567" nombreBanco="Santander" numeroCuenta="0358674589BC"
+		   cuantiaAyuda="200 euros" formaPagado="Efectivo" fotoSocio ="https://www.caritas.org.mx/wp-content/uploads/2019/02/cualidades-persona-humanitaria.jpg" />
+	<socio nombre ="Marta" apellidos ="Toledo Sanchez" email="MartaToSan@gmail.com" dni="05789845N"
+		   domicilio="Toledo" telefono="635364577" nombreBanco="Santander" numeroCuenta="7358574389XB"
+		   cuantiaAyuda="120 euros" formaPagado="Tarjeta" fotoSocio ="https://www.hogarmania.com/archivos/202011/cosas-donar-refugio-animales-portada-668x400x80xX-1.jpg" />
+	<socio nombre ="Samuel" apellidos ="Muñoz Ballesteros" email="SamuMuBa@gmail.com" dni="25679845L"
+		   domicilio="Madrid" telefono="624884447" nombreBanco="Bankia" numeroCuenta="8708674589BC"
+		   cuantiaAyuda="300 euros" formaPagado="Tarjeta" fotoSocio ="https://www.consumer.es/wp-content/uploads/2019/07/img_chico-perro-640x480.jpg" />
+	<socio nombre ="Luis" apellidos ="García Aparicio" email="LuisGarAp@gmail.com" dni="78889745B"
+		   domicilio="Ciudad Real" telefono="658584566" nombreBanco="Santander" numeroCuenta="4358602579GT"
+		   cuantiaAyuda="150 euros" formaPagado="Efectivo" fotoSocio ="https://previews.123rf.com/images/goodluz/goodluz1406/goodluz140600613/29289957-retrato-de-guapo-de-40-a%C3%B1os-de-edad-hombre.jpg" />
+	<socio nombre ="María" apellidos ="López Alguacil" email="MariaLoAl@gmail.com" dni="15889645Y"
+		   domicilio="Barcelona" telefono="622377567" nombreBanco="Caixa Bank" numeroCuenta="7368670580DC"
+		   cuantiaAyuda="400 euros" formaPagado="Tarjeta" fotoSocio ="https://www.superprof.es/imagenes/anuncios/profesor-home-mujer-anos-con-diploma-clases-particulares-ingles.jpg" />
+
+</socio>
